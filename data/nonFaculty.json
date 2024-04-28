@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "name": "Worker 1",
+    "dept": "Security"
+  },
+  {
+    "id": 1,
+    "name": "Worker 2",
+    "dept": "Catering"
+  },
+  {
+    "id": 2,
+    "name": "Worker 3",
+    "dept": "Medical"
+  }
+]
